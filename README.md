@@ -134,40 +134,4 @@ Welcome to my GitHub Page. I am Hoang Trung Thong and now FPTU HCM Software Engi
 </table>
 
 
-<!-- ## Github stats 📊 
-
-<details> 
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=rzashakeri&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzashakeri&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-</details>
-
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
- 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=rzashakeri&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
-</details>
-
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-
-</details>
-
-## Recent GitHub Activity ✅
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/rzashakeri/instagram-telegram-bot/pull/20) in [rzashakeri/instagram-telegram-bot](https://github.com/rzashakeri/instagram-telegram-bot)
-2. 💪 Opened PR [#20](https://github.com/rzashakeri/instagram-telegram-bot/pull/20) in [rzashakeri/instagram-telegram-bot](https://github.com/rzashakeri/instagram-telegram-bot)
-3. 🎉 Merged PR [#19](https://github.com/rzashakeri/instagram-telegram-bot/pull/19) in [rzashakeri/instagram-telegram-bot](https://github.com/rzashakeri/instagram-telegram-bot)
-4. 💪 Opened PR [#19](https://github.com/rzashakeri/instagram-telegram-bot/pull/19) in [rzashakeri/instagram-telegram-bot](https://github.com/rzashakeri/instagram-telegram-bot)
-5. 🎉 Merged PR [#18](https://github.com/rzashakeri/instagram-telegram-bot/pull/18) in [rzashakeri/instagram-telegram-bot](https://github.com/rzashakeri/instagram-telegram-bot)
-<!--END_SECTION:activity-->
-
-## GitHub Profile Trophy 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy) -->
-
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
