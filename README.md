@@ -88,5 +88,8 @@ Welcome to my GitHub Page. I am Hoang Trung Thong and now FPTU HCM Software Engi
  </tr>
 </table>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=thoghoaq" alt="thoghoaq" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuilakie&show_icons=true&locale=en" alt="thoghoaq" /></p>
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
